@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 <h3 align="center">⚡ Fun fact **I Think I am funny</h3>
-<img align="right" alt="coding", width="400", src="![image](https://github.com/user-attachments/assets/a79a7bad-fb0d-4cb9-8e49-e9e8d169ba67)">
+<img align="right", alt="coding", width="400", src="![image](https://github.com/user-attachments/assets/a79a7bad-fb0d-4cb9-8e49-e9e8d169ba67)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahkum15&label=Profile%20views&color=0e75b6&style=flat" alt="rahkum15" /> </p>
