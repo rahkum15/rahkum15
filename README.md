@@ -3,7 +3,7 @@
 <h3 align="center">A passionate data scientist from India</h3>
 <h3 align="center">⚡ Fun fact **I Think I am funny**</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/2ff22f1b-3cfc-4bfb-87d9-21d3aebad162">
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/2ff22f1b-3cfc-4bfb-87d9-21d3aebad162">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahkum15&label=Profile%20views&color=0e75b6&style=flat" alt="rahkum15" /> </p>
 
