@@ -1,3 +1,4 @@
+![logo](https://github.com/rahkum15/rahkum15/blob/main/Github%20logo.jpg)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 <h3 align="center">⚡ Fun fact **I Think I am funny**</h3>
